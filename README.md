@@ -1,36 +1,54 @@
 <div align="center">
-  <h1>¡Hola, soy <a href="">Alex Barientos</a>! 👋</h1>
-  <p><strong>Estudiante de "TII EN LA UPA" apasionado por la tecnología</strong></p>
 
-  <img                  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29mX2lkJmN0PWc/u04bOWYByFO2k/giphy.gif"  width="200" alt="Coding GIF">
+<img src="TU_BANNER_AQUI" alt="Banner Alex Barrientos" width="100%" />
+
+# 👋 Hola, soy Alex Barrientos
+
+### 💻 Estudiante de Tecnologías de la Información  
+📍 Universidad Politécnica de Aguascalientes
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Apasionado+por+la+tecnología;Aprendiendo+Python+y+Desarrollo+Web;Siempre+mejorando+mis+habilidades" />
+
 </div>
-
-<hr>
-
-### 👨‍🎓 Sobre mí
-- 🏫 Actualmente estudiando **UNIVERSIDAD POLITECNICA DE AGUASCALIENTES**.
-- 🌱 Aprendiendo activamente sobre **PYTHON**.
-
-### 🛠️ Tecnologías y Herramientas
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="left">
-  <img height="150" src="https://sic.cultura.gob.mx/galeria_imagen/bbe27a43c2145f34a392d86b3e6eb066.png" />
-</p>
 
 ---
 
-### 📩 Contacto
-<p>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de **TII en la UPA**
+- 🌱 Actualmente aprendiendo **Python** y desarrollo web
+- 💡 Interesado en programación, ciberseguridad y tecnología
+- ⚡ Me gusta crear proyectos y seguir aprendiendo cosas nuevas
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,github" />
+
+</div>
+
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tu-correo@ejemplo.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Siempre aprendiendo algo nuevo.” ✨
+
+</div>
