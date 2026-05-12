@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="TU_BANNER_AQUI" alt="Banner Alex Barrientos" width="100%" />
+<img src="file:///C:/Users/mennn/OneDrive/Im%C3%A1genes/Escritorio/bannerPNG.png" alt="Banner Alex Barrientos" width="100%" />
 
 # 👋 Hola, soy Alex Barrientos
 
